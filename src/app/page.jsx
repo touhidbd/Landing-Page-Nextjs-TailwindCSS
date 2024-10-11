@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-import HeroImage from "./img/hero-bg.svg";
+import HeroImage from "./img/hero-bg.jpg";
 import LigntImage from "./img/light-image.jpg";
 import icon_1 from "./img/icon-1.svg";
 import image_1 from "./img/image-1.jpg";
