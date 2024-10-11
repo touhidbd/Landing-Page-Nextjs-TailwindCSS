@@ -10,7 +10,21 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        blue: "#37447E"
       },
+      fontFamily: {
+        sans: ['var(--font-roboto)'],
+      },
+    },
+    container: {
+      center: true,
+      screens: {
+        sm: '640px',
+        md: '690px',
+        lg: '1024px',
+        xl: '1110px',
+        '2xl': '1320px'
+      }
     },
   },
   plugins: [],
